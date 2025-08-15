@@ -1,4 +1,4 @@
-ingreso_mensual = 500
+ingreso_mensual = 100000
 
 if ingreso_mensual > 10000:
     print("Te puedes mantener tranquilamente en cualquier parte del mundo")
